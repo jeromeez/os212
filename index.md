@@ -1,3 +1,7 @@
-# Operating System 2021-2 Repository
-## Jerome Emmanuel
-[REPO]((https://github.com/jeromeez/os212)){: .btn .btn-purple } | [LOG](TXT/mylog.txt){: .btn .btn-outline }
+# Jerome's Operating System 2021-2 Repository
+
+[REPO](https://github.com/jeromeez/os212) | [LOG](TXT/mylog.txt)
+
+### My Top 10
+- Week 00
+- 
