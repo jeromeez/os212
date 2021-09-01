@@ -9,4 +9,8 @@
 ZCZC W00 10 L03 Github related
 ZCZC W00 20 L04 Finished my github pages 
 ZCZC W00 15 L06 Prepare the necessary references for the course
-ZCZC W00 30 L15 Read Assignment #05
+ZCZC W00 10 L11 Assignment #01 
+ZCZC W00 05 L12 Assignment #02 - Started The Week Log
+ZCZC W00 10 L13 Assignment #03 - Set Up My GitHub
+ZCZC W00 05 L14 Assignment #04 - Registered to the course through gform
+ZCZC W00 30 L15 Assignment #05 - Reading Assignment
