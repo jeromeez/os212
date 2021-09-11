@@ -18,3 +18,7 @@ ZCZC W00 05 L14 Assignment #04 - Registered to the course through gform
 ZCZC W00 30 L15 Assignment #05 - Reading Assignment
 ZCZC W00 60 L09 watched video about linux
 ZCZC W00 30 L00 Quiz Preparation
+ZCZC W01 100 L02 Monday Zoom Meeting
+ZCZC W01 30 L02 Wednesday Zoom Meeting
+ZCZC WO1 120 L11 Assignment #01 - Virtual Box SetUp
+
