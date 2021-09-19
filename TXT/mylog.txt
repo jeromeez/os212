@@ -27,3 +27,12 @@ ZCZC W01 60 L14 Assignment #04 - Dress Up Virtual Guess
 ZCZC W01 30 L15 Assignment #05 - SSH Key & Cloning
 ZCZC W01 15 L16 Assignment #06 - Makeover GitHub Page
 ZCZC W01 10 L17 Assignment #07 - Updating log
+ZCZC W02 100 L02 Monday Zoom Meeting
+ZCZC W02 20 L02 Wednesday Zoom Meeting
+ZCZC W02 30 L14 Assignment #4 - Generating GnuPg KeyPair
+ZCZC W02 05 L15 Assignment #5 - List All GnuPg Keys
+ZCZC W02 15 L16 Assignment #6 - Importing The OS PubKey
+ZCZC W02 05 L17 Assignment #7 - Signing OS PubKey
+ZCZC W02 05 L18 Assignment #8 - Exporting mypubkey.txt
+ZCZC W02 10 L09 Log Update
+ZCZC W02 35 L20 peer links review
