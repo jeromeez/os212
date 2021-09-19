@@ -26,3 +26,6 @@ Pretty similar to the link above, but this time it's more technical since it sho
 
 ### [Cyber Security In 2 Minutes](https://www.youtube.com/watch?v=Q2W_nNdReXM)
 After wathing some parts from the 2 hour-long videos given in the slides, this brief video shows me the general idea of cyber security.
+
+### [C Tutorial](https://www.w3schools.in/c-tutorial/)
+This week we have some demos to try, however it's written in c-language. This website helped to understand the C language and its syntax.
