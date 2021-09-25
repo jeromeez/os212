@@ -36,3 +36,8 @@ ZCZC W02 05 L17 Assignment #7 - Signing OS PubKey
 ZCZC W02 05 L18 Assignment #8 - Exporting mypubkey.txt
 ZCZC W02 10 L09 Log Update
 ZCZC W02 35 L20 peer links review
+ZCZC W02 45 L05 QUIZ
+ZCZC W03 120 L02 Monday-Wednesday Zoom Class
+ZCZC W03 15 L14 Assignment #4 - Check .bash_aliases file
+ZCZC W03 60 L15 Assignment #5 - Added Virtual Disk + edited myscript
+ZCZC W03 30 L19 Assignment #9 - Submit W03 assignment 
