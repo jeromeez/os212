@@ -39,4 +39,9 @@ In this week's slides, we were introduced to some of the properties of FHS. This
 ### 2️⃣  [File System Interface](https://www.tutorialspoint.com/operating_system/os_file_system.htm)
 This web introduces some terms and stuffs surrounding File System Interface. It explains things from file structure to to Indexed Allocation. I recommend this website for those who are still unfamiliar with File System.
 
+## Week 04
+### 1️⃣  [Explanation on malloc, calloc, realloc, and free](https://www.youtube.com/watch?v=lQP4X3odvHE)
+In this week's forum, we discussed some functions in C language. It mostly covers functions like malloc, calloc, realloc, and free. This video helped me to understand those functions better.
 
+### 2️⃣  [Little Endian vs Big Endian](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)
+We might be familiar with these term from a previous course. This link helped to refresh my memory about little and big endian.
