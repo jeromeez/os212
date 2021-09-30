@@ -40,4 +40,13 @@ ZCZC W02 45 L05 QUIZ
 ZCZC W03 120 L02 Monday-Wednesday Zoom Class
 ZCZC W03 15 L14 Assignment #4 - Check .bash_aliases file
 ZCZC W03 60 L15 Assignment #5 - Added Virtual Disk + edited myscript
-ZCZC W03 30 L19 Assignment #9 - Submit W03 assignment 
+ZCZC W03 30 L19 Assignment #9 - Submit W03 assignment
+ZCZC W04 100 L02 Monday Zoom Meeting
+ZCZC W04 30 L11 Assignment #01
+ZCZC W04 30 L12 Assignment #02
+ZCZC W04 40 L13 Assignment #03
+ZCZC W04 20 L14 Assignment #04
+ZCZC W04 50 L15 Assignment #05
+ZCZC W04 20 L16 Assignment #06
+ZCZC W04 15 L17 Assignment #07
+ZCZC W04 20 L18 Assignment #08
