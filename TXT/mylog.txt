@@ -50,3 +50,10 @@ ZCZC W04 50 L15 Assignment #05
 ZCZC W04 20 L16 Assignment #06
 ZCZC W04 15 L17 Assignment #07
 ZCZC W04 20 L18 Assignment #08
+ZCZC W05 30 L22 Week 04 Quiz
+ZCZC W05 100 L02 Monday Zoom Meeting
+ZCZC W05 15 L11 Assignment - #1 read chapter 10
+ZCZC W05 10 L14 Assignment - #4 fetch and extract file, modify mymemory, run scripts, copy the results
+ZCZC W05 10 L15 Assignment - #5 update bookmark links
+ZCZC W05 10 L17 Assignment - #7 Review peer links
+ZCZC W05 10 L8 Assignment - #8 update mylog.txt
