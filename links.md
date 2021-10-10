@@ -47,8 +47,8 @@ In this week's forum, we discussed some functions in C language. It mostly cover
 We might be familiar with these term from a previous course. This link helped to refresh my memory about little and big endian.
 
 ## Week 05
-### 1️⃣  [What is Virtual Memory is OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+### 1️⃣  [What is Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
 This is a website about brief introduction to Virtual Memory in Operating System. This page is really helpful in order to understand the basic of Virtual Memory. Would recommend everyone to check this page!
 
 ### 2️⃣  [Intro to Physical Memory](https://www.sciencedirect.com/topics/computer-science/physical-memory)
-This article explains about Physical memory
+This article explains about the introduction to Physical memory.
