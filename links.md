@@ -52,3 +52,13 @@ This is a website about brief introduction to Virtual Memory in Operating System
 
 ### 2️⃣  [Intro to Physical Memory](https://www.sciencedirect.com/topics/computer-science/physical-memory)
 This article explains about the introduction to Physical memory.
+
+## Week 06
+### 1️⃣  [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)
+The term fork might be familiar to you when we're talking about git. However, you might wonder, what is Fork() in C programming language? This website gives a brief yet so great explanation on Fork()
+
+### 2️⃣  [Process vs Thread](https://www.youtube.com/watch?v=Dhf-DYO1K78)
+This video is an introduction to process and threads in operating systems. It helped me to visualize threading and process in a bigger picture.
+
+### 2️⃣  [Concurrency issues in java - Multithreading](https://www.geeksforgeeks.org/multithreading-in-java/#:~:text=Multithreading%20is%20a%20Java%20feature,Attention%20reader!)
+Since I have taken the advanced programming course last term, I was already introduced to multi-threading. This link gave me an example of multithreading in Java . Other than that, this also gives a solution to it. I hope this link will be beneficial to those who need it!
