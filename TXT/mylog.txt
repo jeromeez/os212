@@ -57,3 +57,9 @@ ZCZC W05 10 L14 Assignment - #4 fetch and extract file, modify mymemory, run scr
 ZCZC W05 10 L15 Assignment - #5 update bookmark links
 ZCZC W05 10 L17 Assignment - #7 Review peer links
 ZCZC W05 10 L8 Assignment - #8 update mylog.txt
+ZCZC W06 30 L05 Quiz Week 6
+ZCZC W06 30 L06 Searching articles related to materials
+ZCZC W06 10 L14 Assignment #04: Observing Fork()
+ZCZC W06 15 L17 Assignment #07: Reviewing my peer links
+ZCZC W06 15 L18 Assignment #08: Updating my log
+ZCZC W06 30 L16 Assignment #05: Updating my links
