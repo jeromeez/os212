@@ -60,5 +60,5 @@ The term fork might be familiar to you when we're talking about git. However, yo
 ### 2️⃣  [Process vs Thread](https://www.youtube.com/watch?v=Dhf-DYO1K78)
 This video is an introduction to process and threads in operating systems. It helped me to visualize threading and process in a bigger picture.
 
-### 2️⃣  [Concurrency issues in java - Multithreading](https://www.geeksforgeeks.org/multithreading-in-java/#:~:text=Multithreading%20is%20a%20Java%20feature,Attention%20reader!)
+### 3️⃣  [Concurrency issues in java - Multithreading](https://www.geeksforgeeks.org/multithreading-in-java/#:~:text=Multithreading%20is%20a%20Java%20feature,Attention%20reader!)
 Since I have taken the advanced programming course last term, I was already introduced to multi-threading. This link gave me an example of multithreading in Java . Other than that, this also gives a solution to it. I hope this link will be beneficial to those who need it!
