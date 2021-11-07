@@ -62,3 +62,10 @@ This video is an introduction to process and threads in operating systems. It he
 
 ### 3️⃣  [Concurrency issues in java - Multithreading](https://www.geeksforgeeks.org/multithreading-in-java/#:~:text=Multithreading%20is%20a%20Java%20feature,Attention%20reader!)
 Since I have taken the advanced programming course last term, I was already introduced to multi-threading. This link gave me an example of multithreading in Java . Other than that, this also gives a solution to it. I hope this link will be beneficial to those who need it!
+
+## Week 07
+## 1️⃣  [Semaphore](https://www.youtube.com/watch?v=ukM_zzrIeXs)
+This link contains a video explaing the basic understanding on what semaphore is and how it works.
+
+### 2️⃣  [Deadlock in Operating System](https://www.youtube.com/watch?v=UVo9mGARkhQ)
+This video explains the methods for handling deadlock. This video will help you to understand what is a deadlock in Operating systems, what are the conditions that result in deadlocks & strategies for handling deadlocks.
