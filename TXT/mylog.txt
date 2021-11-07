@@ -63,3 +63,11 @@ ZCZC W06 10 L14 Assignment #04: Observing Fork()
 ZCZC W06 15 L17 Assignment #07: Reviewing my peer links
 ZCZC W06 15 L18 Assignment #08: Updating my log
 ZCZC W06 30 L16 Assignment #05: Updating my links
+ZCZC W07 30 L05 Quiz Week 6
+ZCZC W07 30 L06 Searching articles related to materials
+ZCZC W07 10 L14 Assignment #04: Observing How Shared Memory Works
+ZCZC W07 15 L17 Assignment #07: Reviewing my peer links
+ZCZC W07 15 L18 Assignment #08: Updating my log
+ZCZC W07 30 L16 Assignment #05: Updating my links
+ZCZC W07 20 L16 Assignment #06
+ZCZC W07 30 L02 Monday Zoom Meeting
