@@ -69,3 +69,14 @@ This link contains a video explaing the basic understanding on what semaphore is
 
 ### 2️⃣  [Deadlock in Operating System](https://www.youtube.com/watch?v=UVo9mGARkhQ)
 This video explains the methods for handling deadlock. This video will help you to understand what is a deadlock in Operating systems, what are the conditions that result in deadlocks & strategies for handling deadlocks.
+
+## Week 08
+### 1️⃣  [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)
+When starting on Week 08, we're tasked to do some installation in LFS. This link acts as our guide to install and run it. Furthermore this source provides great table of contents and subsections.
+
+## Week 09
+### 1️⃣  [BIOS (basic input/output system)](https://whatis.techtarget.com/definition/BIOS-basic-input-output-system)
+This link contains a video explaing the basic understanding on what BIOS (basic input/output system) is and how it works. 
+
+### 2️⃣  [Introduction to RAID](https://www.appservgrid.com/paw92/index.php/2019/03/17/introduction-to-raid-concepts-of-raid-and-raid-levels-in-linux/)
+This video explains the meaning and the concept of RAID. In short, RAID is a Redundant Array of Inexpensive disks, but nowadays it is called Redundant Array of Independent drives. Earlier it is used to be very costly to buy even a smaller size of disk, but nowadays we can buy a large size of disk with the same amount like before. Raid is just a collection of disks in a pool to become a logical volume.
